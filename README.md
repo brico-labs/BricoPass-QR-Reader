@@ -10,13 +10,13 @@ Sends QR code to server via MQTT and waits validation. It shows info with screen
 
 ## Connections
 - GM61
- - RX to ESP32 pin 27
- - TX to ESP32 pin 26
- - Vcc to ESP32 3V3
- - GND to ESP32 GND
+  - RX to ESP32 pin 27
+  - TX to ESP32 pin 26
+  - Vcc to ESP32 3V3
+  - GND to ESP32 GND
 - Buzzer
- - + to ESP32 pin 12
- - - to ESP32 GND
+  - PLUS to ESP32 pin 12
+  - MINUS to ESP32 GND
 
 ## How To
 
